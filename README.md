@@ -8,7 +8,7 @@ These projects cover various aspects of data analysis, machine learning, and dat
 *Linkedin* : [Linkedin Kevin Rio H.](https://www.linkedin.com/in/kevinrioharristyando//)
 
 ## Project Structure
-Project 1: [Google Play Store Apps and Reviews]
+Project 1: [Google Play Store Apps and Reviews](https://github.com/kevinrioharris/Portofolio/blob/main/Google%20Play%20Store%20Apps%20and%20Reviews/Google%20Play%20Store%20Apps%20and%20Reviews.ipynb)
 
 *Description* : Brief description of the project, highlighting the problem statement and objectives  
 *Dataset* : [The Android App Market on Google Play](https://www.kaggle.com/datasets/mohammedmurtuzalabib/processed-android/download?datasetVersionNumber=1)  
