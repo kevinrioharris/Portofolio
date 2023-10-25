@@ -24,5 +24,5 @@ To get started with this project, follow these steps:
 - The dataset used in this project is provided by [Shivam Bansal](https://www.kaggle.com/shivamb) on Kaggle.
 
 ## Questions or Issues
-If you have any questions or encounter any issues with this project, please open an [issue](https://github.com/kevinrioharris/Portofolio/Netflix_Movies_and_TV_Shows_Analysis_and_Visualization/issues) on GitHub.
+If you have any questions or encounter any issues with this project, please open an [issue](https://github.com/kevinrioharris/Portofolio/issues) on GitHub.
 
